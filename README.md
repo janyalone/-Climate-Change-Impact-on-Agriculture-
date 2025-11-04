@@ -30,3 +30,4 @@ The dashboard provides interactive insights into:
 | **Soil Health** | Scatter | Fertilizer use vs soil index |
 | **Adaptation** | Bar & Pie | Strategy performance |
 | **Economic Impact** | Line & Treemap | Total losses and GDP correlation |
+![Dashboard Preview](Dashboard_Preview.png)
